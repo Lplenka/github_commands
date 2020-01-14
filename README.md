@@ -13,6 +13,7 @@ _A list of commonly used Git commands_
 | `git config user.name [user-name]`          | Sets user email for a single repo in the computer |
 | `git config user.email [email]`             | Sets user email for every repo                    |
 | `git config --local user.email [email]`     | Sets user email for local repo                    |
+| `git config --local user.name [user-name]`  | Sets user name for local repo                    |
 
 ### Getting & Creating Projects
 
