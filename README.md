@@ -81,8 +81,8 @@ _A list of commonly used Git commands_
 
 ### Working with commits
 
-| Command                                | Description                      |
-| -------------------------------------- | -------------------------------- |
-| `git commit -m [user-message]`         | Commits the staged changes       |
-| `git commit --amend -m [user-message]` | Changes the previous commit      |
-| `git rebase -i HEAD~[number]`          | squash previous commits into one |
+| Command                                | Description                                 |
+| -------------------------------------- | ------------------------------------------- |
+| `git commit -m [user-message]`         | Commits the staged changes                  |
+| `git commit --amend -m [user-message]` | Changes the message of previous commit      |
+| `git rebase -i HEAD~[number]`          | squash previous commits into one            |
